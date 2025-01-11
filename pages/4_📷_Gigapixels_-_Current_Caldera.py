@@ -14,9 +14,7 @@ gigapixel_number = st.select_slider(
     options=[abs(x) for x in range(-30, 0)],
 )
 
-# background_html = "<style> .leaflet-container {background-color: #000000 !important;}</style>"
-
-t = folium.TileLayer(tiles=f"http://192.168.178.129:8000/group-{gigapixel_number}-dzsl_files/{{z}}/{{x}}/{{y}}.png", 
+t = folium.TileLayer(tiles=f"http://192.168.178.129:8000/group-{gigapixel_number:02d}-dzsl_files/{{z}}/{{x}}/{{y}}.png", 
                      max_zoom=9,
                      tms=True, 
                      attr="© 2024 Garrett Speed", 
