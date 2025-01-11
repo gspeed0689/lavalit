@@ -1,0 +1,425 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 1"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4267566476017,
+            40.8188522452489
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 2"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4267090358771,
+            40.8188356042374
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 3"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4266127608716,
+            40.818807464093
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 4"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4265252601355,
+            40.8187898570672
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 5"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4264724105597,
+            40.8187897725624
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 6"
+        },
+        "geometry": {
+          "coordinates": [
+            14.426375804469,
+            40.8187818434089
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 7"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4262716572732,
+            40.8187844842672
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 8"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4262074516155,
+            40.8187935885508
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 9"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4260351685807,
+            40.8188076829538
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 10"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4259632885223,
+            40.818808695185
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 11"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4257955501477,
+            40.8188252414887
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 12"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4257317067069,
+            40.8188423796502
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 13"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4247682360583,
+            40.8191630650254
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 14"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4247157672154,
+            40.8191847350515
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 15"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4243805180304,
+            40.8193517848849
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 16"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4241369007012,
+            40.8195672814663
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 17"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4240535575897,
+            40.81962430235
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 18"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4239295670844,
+            40.8197284603248
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 19"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4238327927887,
+            40.819850393571
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 20"
+        },
+        "geometry": {
+          "coordinates": [
+            14.423785069241,
+            40.8199219993101
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 21"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4237228576094,
+            40.8199818455614
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 22"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4236650292508,
+            40.820070874073
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 23"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4231514931273,
+            40.8206277311889
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 24"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4230965487659,
+            40.8207072710618
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 25"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4229553081095,
+            40.8208356150426
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 26"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4228793374233,
+            40.8209532569914
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 27"
+        },
+        "geometry": {
+          "coordinates": [
+            14.422789153389,
+            40.8211121458391
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 28"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4227320557194,
+            40.8212260790169
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 29"
+        },
+        "geometry": {
+          "coordinates": [
+            14.4226880922147,
+            40.8213039597168
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "tooltip": "Panorama 30"
+        },
+        "geometry": {
+          "coordinates": [
+            14.422618890061,
+            40.8216067142184
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      }
+    ]
+  }
