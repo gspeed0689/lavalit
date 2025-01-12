@@ -51,7 +51,7 @@ group_loc = panodict[group_num]
 group_loc = [group_loc["yctr"], group_loc["xctr"]] # these appear to be reversed
 # st.write(str(group_loc))
 
-t = folium.TileLayer(tiles=f"http://192.168.178.129:8000/{group_num}/{{z}}/{{x}}/{{y}}.webp", 
+t = folium.TileLayer(tiles=f"https://vesuvius-panoramas.s3-website.eu-central-1.amazonaws.com/{group_num}/{{z}}/{{x}}/{{y}}.webp", 
                      max_zoom=8,
                      tms=True, 
                      attr="© 2024 Garrett Speed", 
@@ -67,7 +67,7 @@ m = folium.Map(location=group_loc,
 
 # p = folium.Marker(location=group_loc).add_to(m)
 
-m.add_css_link("css", "http://192.168.178.129:8000/extraleaflet.css")
+m.add_css_link("css", "https://vesuvius-panoramas.s3-website.eu-central-1.amazonaws.com/extraleaflet.css")
 
 st_map = st_folium(m, 
                    use_container_width=True,
