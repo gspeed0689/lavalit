@@ -3,5 +3,5 @@ import streamlit.components.v1 as components
 
 st.write("# Current Crater Point Cloud")
 
-components.iframe("https://vesuvius-panoramas.s3-website.eu-central-1.amazonaws.com/VesuvioCrater/", 
+components.iframe("https://vesuvius-panoramas.s3.eu-central-1.amazonaws.com/VesuvioCrater/", 
                   height=800)
